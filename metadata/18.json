@@ -1,0 +1,50 @@
+{
+    "name": "Brick Manor with Private Pool",
+    "address": "1345 Oak Bend Drive, Wellington, FL 33414",
+    "description": "A splendid combination of classic design and modern luxury, this exquisite brick manor sits on a beautifully landscaped plot. It features spacious interiors, a private outdoor pool, and an atmosphere of serene elegance.",
+    "image": "https://ipfs.io/ipfs/QmW4fWxJz9eECVqqhQgKWnQbZnBbfzLBkSEQkg6yZ7uLdZ",
+    "id": "302",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "2.5M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Single Family Home"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 4500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.8 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Heated Swimming Pool, Custom Landscaping, Chef's Kitchen"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2000
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "2022"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Covered Patio, Poolside Lounge Area"
+        }
+    ]
+}
+

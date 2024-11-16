@@ -1,0 +1,50 @@
+{
+    "name": "Mediterranean Villa with Olive Garden",
+    "address": "100 Via Tuscany, Rancho Mirage, CA 92270",
+    "description": "Inspired by Tuscan design, this magnificent villa exudes a blend of modern amenities and classic Mediterranean charm. It features an expansive outdoor entertainment space centered around an ancient olive tree, creating an inviting oasis for relaxation and social gatherings.",
+    "image": "https://ipfs.io/ipfs/QmYm47J15kiA3LPaCQP2WVk7wcckC35oTA4G3eh9tXz2kc",
+    "id": "403",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "3.8M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4.5
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 5200
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "1 Acre"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Handcrafted Details, Imported Olive Tree, Custom Infinity Pool"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2010
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "2021"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Alfresco Dining, Sun Lounge Area"
+        }
+    ]
+}
+

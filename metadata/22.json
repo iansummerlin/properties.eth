@@ -1,0 +1,50 @@
+{
+    "name": "Modern Architectural Gem",
+    "address": "742 Evergreen Terrace, Springfield, OR 97477",
+    "description": "This modern architectural gem boasts sleek lines and expansive glass windows, integrating indoor comfort with outdoor beauty. It's the ideal sanctuary for those with a penchant for modern design and natural light.",
+    "image": "https://ipfs.io/ipfs/QmRjboK1Z1gxQ1gZetjqJCjD3hxkcJXbr4KLQzMas43CzG",
+    "id": "450",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "1.2M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Detached House"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.3 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "High ceilings, Eco-friendly materials, Smart home technology"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "None"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Landscaped Garden, Rooftop Terrace"
+        }
+    ]
+}
+

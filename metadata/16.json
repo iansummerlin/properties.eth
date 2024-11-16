@@ -1,0 +1,50 @@
+{
+    "name": "Futuristic Oceanview Residence",
+    "address": "834 Pacific Terrace, San Diego, CA 92109",
+    "description": "This state-of-the-art residence epitomizes modern luxury with its bold design, cutting-edge technology, and commanding ocean views. It boasts an open-concept living area that extends onto a spacious balcony, perfect for enjoying the coastal ambiance.",
+    "image": "https://ipfs.io/ipfs/QmYTW2Zb7YGe4z34zbNR7WU1m2raR1vCV2cLm6cVHHueVg",
+    "id": "519",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "4.8M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Residential"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 5500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.7 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Automated Smart Home, Eco-Friendly Solar Panels, Rooftop Garden"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2020
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "None"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Infinity Pool, Outdoor Kitchen"
+        }
+    ]
+}
+

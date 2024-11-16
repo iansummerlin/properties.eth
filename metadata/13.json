@@ -1,0 +1,50 @@
+{
+    "name": "Waterfront Luxury Villa",
+    "address": "450 Marina Point, Miami, FL 33131",
+    "description": "Embrace the epitome of waterfront luxury in this exclusive Miami villa. With its own private dock and direct ocean access, this home is a boating enthusiast’s dream. The villa boasts spacious living areas with panoramic views of the bay.",
+    "image": "https://ipfs.io/ipfs/QmfD23QiuZzB17nAwC96zKyfYeQiZNRuuhbiDs4aNv5oX6",
+    "id": "2130",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "12M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 7
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 7500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "1 Acre"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Private Dock, Ocean Access, Gourmet Kitchen"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2002
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "2015"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Expansive Terrace, Infinity Pool"
+        }
+    ]
+}
+

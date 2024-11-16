@@ -1,0 +1,54 @@
+{
+    "name": "Charming Riverside Manor",
+    "address": "475 Waterfront Ave, Strasbourg, France",
+    "description": "Charming manor house with picturesque river views, featuring traditional European architecture and modern comforts.",
+    "image": "https://ipfs.io/ipfs/QmZ6PXRMLMFQx2DPYcsc2nh3wn83uvXU9tMkxTsiZaDedu",
+    "id": "28",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "€2.5 Million"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Historic Manor"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Total Area",
+            "value": "4,800 sqft"
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.75 Acres"
+        },
+        {
+            "trait_type": "Amenities",
+            "value": "Wine Cellar, Riverside Garden, Boathouse"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1895
+        },
+        {
+            "trait_type": "Renovation Year",
+            "value": 2010
+        },
+        {
+            "trait_type": "Architectural Style",
+            "value": "Victorian"
+        },
+        {
+            "trait_type": "View",
+            "value": "River Front"
+        }
+    ]
+}
+

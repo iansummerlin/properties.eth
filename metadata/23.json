@@ -1,0 +1,50 @@
+{
+    "name": "Sun-kissed Mediterranean Haven",
+    "address": "210 Sevilla Ave, Coral Gables, FL 33134",
+    "description": "A delightful Mediterranean-style residence basking in the warm Florida sun, complete with terracotta roofing, arched doorways, and a welcoming palm landscape.",
+    "image": "https://ipfs.io/ipfs/Qmf6P66y8Qot3LxKAHjTb48oKpEGgUbrWvu6tz3Vjpefep",
+    "id": "32",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "$950,000"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Single-Family Home"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2.5
+        },
+        {
+            "trait_type": "Square Footage",
+            "value": 2700
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.18 Acres"
+        },
+        {
+            "trait_type": "Amenities",
+            "value": "Private Garden, Balcony, Fireplace"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1990
+        },
+        {
+            "trait_type": "Recent Renovations",
+            "value": "Kitchen, Roof, Master Bath"
+        },
+        {
+            "trait_type": "Parking",
+            "value": "Attached Garage"
+        }
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "name": "Beachfront Elegance",
+    "address": "88 Oceanview Lane, Malibu, CA 90265",
+    "description": "Experience luxury living with this stunning beachfront residence. Boasting sweeping ocean views, this home features a generous open floor plan, state-of-the-art finishes, and an expansive deck with a private pool for the ultimate coastal lifestyle.",
+    "image": "https://ipfs.io/ipfs/Qmecw1gPKvWXLkG3eZdFrR9JToB1zLzBqFvQBZStS3yH6C",
+    "id": "608",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "4.5M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Single-Family Home"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3200
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.6 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Private Beach Access, Saltwater Pool, Gourmet Kitchen"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2001
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "2018"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Pool Deck, Landscaped Gardens"
+        }
+    ]
+}
+

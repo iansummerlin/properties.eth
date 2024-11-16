@@ -1,0 +1,50 @@
+{
+    "name": "Eco-Friendly Designer Cabin",
+    "address": "325 Woodland Path, Asheville, NC 28803",
+    "description": "A sustainable retreat melding modern architecture with reclaimed materials, nestled in the tranquility of nature.",
+    "image": "https://ipfs.io/ipfs/QmPgnzCt65uD7sGkjzeJ2q1xY7ke8dwwuASbLmtxfSGjrx",
+    "id": "30",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "$1.2 Million"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Cabin"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Total Area",
+            "value": "2,500 sqft"
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.5 Acres"
+        },
+        {
+            "trait_type": "Amenities",
+            "value": "Greenhouse, Solar Panels, Rainwater Collection"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2019
+        },
+        {
+            "trait_type": "Eco Certification",
+            "value": "LEED Platinum"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Reclaimed Wood, Energy-Efficient Appliances, Natural Light Design"
+        }
+    ]
+}
+

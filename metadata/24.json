@@ -1,0 +1,50 @@
+{
+    "name": "Contemporary Waterfront Oasis",
+    "address": "8621 Lakeside Bend, Houston, TX 77083",
+    "description": "Sleek modern design meets comfort in this waterfront property, featuring floor-to-ceiling windows, an infinity pool, and lush landscaping.",
+    "image": "https://ipfs.io/ipfs/QmdJHvota8RFfKESFZcsUJXKS7pZWJxZ6VZKFAarUYgjUB",
+    "id": "73",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "$1.8 Million"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Detached House"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4.5
+        },
+        {
+            "trait_type": "Square Footage",
+            "value": 5500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.9 Acres"
+        },
+        {
+            "trait_type": "Amenities",
+            "value": "Infinity Pool, Outdoor Kitchen, Private Dock"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2016
+        },
+        {
+            "trait_type": "Architectural Style",
+            "value": "Modern Contemporary"
+        },
+        {
+            "trait_type": "Eco-Friendly Features",
+            "value": "Solar Panels, Rainwater Collection System"
+        }
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "name": "Forest A-Frame Sanctuary",
+    "address": "105 Timberland Road, White Mountains, NH 03595",
+    "description": "This charming A-frame house is a symphony of rustic elegance and modern comfort, situated in the tranquility of the White Mountains. It's the perfect mountain escape, offering an intimate connection with nature and a peaceful retreat from the bustling world.",
+    "image": "https://ipfs.io/ipfs/QmS7qgPfHdhWwgcwnN2vgHrZ71Y5tpwPARtJCx2ZQHfDbQ",
+    "id": "890",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "750K"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Cabin"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1800
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "2 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Floor-to-Ceiling Windows, Wood-Burning Stove, Wraparound Deck"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1985
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "2019"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Hot Tub, Fire Pit"
+        }
+    ]
+}
+

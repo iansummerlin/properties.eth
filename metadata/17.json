@@ -1,0 +1,50 @@
+{
+    "name": "Countryside Estate Home",
+    "address": "7720 Rolling Meadows, Hudson Valley, NY 12534",
+    "description": "Experience the allure of the countryside in this luxurious estate home. Surrounded by lush greenery and expansive grounds, the property features traditional architecture with modern amenities, providing both comfort and elegance.",
+    "image": "https://ipfs.io/ipfs/QmcYMCv39YxwQkUcNLQSsdhLs3wntz6LhNEQmoLfrKx2Go",
+    "id": "326",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "1.2M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Estate"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3200
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "3 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Vaulted Ceilings, Gourmet Kitchen, Custom Landscaping"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2008
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "None"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Expansive Patio, Outdoor Fireplace"
+        }
+    ]
+}
+

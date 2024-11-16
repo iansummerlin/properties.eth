@@ -1,0 +1,46 @@
+{
+    "name": "Minimalist Modern Villa",
+    "address": "8421 Modernity Drive, Palm Springs, CA 92264",
+    "description": "Sleek lines and an open floor plan define this minimalist modern villa. Nestled in a serene desert landscape, the home offers privacy and unmatched style, with state-of-the-art amenities and floor-to-ceiling windows that capture the beauty of its natural surroundings.",
+    "image": "https://ipfs.io/ipfs/QmV6JAGq9PcTh9XXwTHzi3AYwrpYUTAjnF6UVFydH6EG2H",
+    "id": "202",
+    "attributes": [
+        {
+            "trait_type": "List Price",
+            "value": "1.7M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3200
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "1.5 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Infinity Pool, Outdoor Kitchen, Solar Power System"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2015
+        },
+        {
+            "trait_type": "Architectural Style",
+            "value": "Modern Minimalist"
+        }
+    ]
+}
+

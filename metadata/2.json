@@ -1,0 +1,50 @@
+{
+    "name": "Suburban Oasis with Pool",
+    "address": "2584 Maple Drive, Suburbia, ST 12345",
+    "description": "An exquisite suburban retreat boasting a spacious interior and a stunning outdoor pool. This home features lush landscaping, modern amenities, and a private backyard paradise perfect for relaxation and entertainment.",
+    "image": "https://ipfs.io/ipfs/QmRXzb2Qh3g1s2zXpFPC6HDeTczd7HLCwLdT5xngBRYXk9",
+    "id": "102",
+    "attributes": [
+        {
+            "trait_type": "List Price",
+            "value": "950K"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Single Family Home"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3.5
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.75 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Outdoor Pool, Landscape Garden, Fireplace"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2008
+        },
+        {
+            "trait_type": "Recent Renovation",
+            "value": "2022"
+        },
+        {
+            "trait_type": "School District",
+            "value": "Top Rated"
+        }
+    ]
+}
+

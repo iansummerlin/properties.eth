@@ -1,0 +1,50 @@
+{
+    "name": "Winter Wonderland Retreat",
+    "address": "981 Frosty Lane, Aspen, CO 81611",
+    "description": "Nestled in the heart of the snow-capped mountains, this picturesque retreat offers a cozy sanctuary with its warm wooden interiors and roaring fireplaces. Perfect for those who love winter sports or who simply wish to relax in a peaceful snowy setting.",
+    "image": "https://ipfs.io/ipfs/Qma1iBXtf6zvLxzycnoU1YQpt1iEwKZbRexvqa76jBBrvf",
+    "id": "677",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "3.6M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Chalet"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3.5
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3000
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "1.5 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Ski-in/Ski-out Access, Heated Floors, Outdoor Hot Tub"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2010
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "None"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Spacious Deck, Heated Driveway"
+        }
+    ]
+}
+

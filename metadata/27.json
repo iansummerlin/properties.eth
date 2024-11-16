@@ -1,0 +1,50 @@
+{
+    "name": "Elegant Estate Villa",
+    "address": "22 Kensington Gardens, Orlando, FL 32825",
+    "description": "This elegant estate villa boasts a fusion of classical and contemporary design, set in a prime location with lush landscaping.",
+    "image": "https://ipfs.io/ipfs/QmczdKgXWSVtKpyRERwePQhndFEDQUfVJZFaTkWx7nG2D2",
+    "id": "27",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "$1.2 Million"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Total Area",
+            "value": "6,500 sqft"
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.5 Acres"
+        },
+        {
+            "trait_type": "Amenities",
+            "value": "Private Garden, Guest Suites, Gated Community"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2016
+        },
+        {
+            "trait_type": "Architectural Style",
+            "value": "Neo-Classical"
+        },
+        {
+            "trait_type": "View",
+            "value": "Garden"
+        }
+    ]
+}
+

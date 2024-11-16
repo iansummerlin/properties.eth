@@ -1,0 +1,50 @@
+{
+    "name": "Mountain View Timber Home",
+    "address": "789 Highland Ridge, Blue Mountains, NC 28714",
+    "description": "Nested in the scenic Blue Mountains, this timber home offers a stunning vista of the rugged landscape. The property combines rustic charm with modern amenities, featuring an expansive deck, high vaulted ceilings, and a cozy fireplace.",
+    "image": "https://ipfs.io/ipfs/QmYRJyJWF6GPs3B4eSMvBs7ybdv6mjcmwsLNSotxfdkWGC",
+    "id": "456",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "750K"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "House"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2800
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "2 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Wraparound Deck, Panoramic Mountain Views, Custom Woodwork"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2005
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "2019"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Private Deck, Mature Trees"
+        }
+    ]
+}
+

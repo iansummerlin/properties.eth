@@ -1,0 +1,50 @@
+{
+    "name": "Tropical Oasis Estate",
+    "address": "88 Coastal Rd, Cancun, Mexico",
+    "description": "Exquisite estate surrounded by lush gardens and water features, offering a serene escape with modern design and luxury amenities.",
+    "image": "https://ipfs.io/ipfs/QmbfaBxxFoP7r2rbi8a9KZQBhLFKHmpsNyMNsbD7vXfjPr",
+    "id": "29",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "$3.8 Million"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Total Area",
+            "value": "6,500 sqft"
+        },
+        {
+            "trait_type": "Land Size",
+            "value": "1.2 Acres"
+        },
+        {
+            "trait_type": "Amenities",
+            "value": "Infinity Pool, Outdoor Pavilion, Private Garden"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        },
+        {
+            "trait_type": "Architectural Style",
+            "value": "Contemporary Tropical"
+        },
+        {
+            "trait_type": "Eco Features",
+            "value": "Solar Panels, Rainwater Harvesting"
+        }
+    ]
+}
+

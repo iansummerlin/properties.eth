@@ -1,0 +1,50 @@
+{
+    "name": "Seascape Serenity Villa",
+    "address": "168 Coastal Road, Aegean Shoreline, Greece",
+    "description": "Bask in the beauty of the Aegean Sea at this modern villa, where luxury meets tranquility. Stone architecture and contemporary design elements blend to create a haven of peace. Complete with terraces for sunset viewing and spacious living areas, this villa is a dream getaway.",
+    "image": "https://ipfs.io/ipfs/QmWKDBCi1kAAfT6bKQTtnxD2RcTmsgHXKTVygsvKW5CSV6",
+    "id": "225",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "5M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 4500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "1 Acre"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Private Access to Sea, Infinity Pool, Outdoor Dining Area"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2010
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "2018"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Multiple Terraces, Landscaped Garden"
+        }
+    ]
+}
+

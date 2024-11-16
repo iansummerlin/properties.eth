@@ -1,0 +1,46 @@
+{
+    "name": "Contemporary Poolside Haven",
+    "address": "321 Seaside Blvd, Santa Monica, CA 90401",
+    "description": "This sleek contemporary home provides a perfect blend of luxury and comfort with its spacious design and stunning poolside area. Featuring high-end finishes and large sliding doors, it offers an airy and bright living space that seamlessly connects to the outdoor terrace for the ultimate relaxation spot.",
+    "image": "https://ipfs.io/ipfs/QmVD76gBq7hUKqKgm5MAbzerhtfbQ8Lxv38YJvibzyfyBM",
+    "id": "812",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "2.9M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Residential"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2.5
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2800
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.3 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Heated Pool, Open Floor Plan, Smart Home System"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Terrace, Poolside Deck"
+        }
+    ]
+}
+

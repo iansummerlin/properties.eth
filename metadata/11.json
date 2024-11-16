@@ -1,0 +1,46 @@
+{
+    "name": "Jungle Luxe Retreat",
+    "address": "305 Rainforest Way, Costa Rica",
+    "description": "Immerse yourself in the heart of nature with this stunning architectural gem located in the lush rainforests of Costa Rica. Featuring floor-to-ceiling windows and an open-concept design, this home harmoniously blends indoor luxury with an outdoor tropical paradise.",
+    "image": "https://ipfs.io/ipfs/QmPJWc71GJdWJuBRyf85XMmLgkEWmQKUrZu33zx9AkdgQY",
+    "id": "909",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "850K"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Detached"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2400
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.9 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Private Infinity Pool, Eco-Friendly Design, Rainforest Location"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2017
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Wooden Pool Deck, Landscaped Garden"
+        }
+    ]
+}
+

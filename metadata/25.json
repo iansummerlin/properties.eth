@@ -1,0 +1,50 @@
+{
+    "name": "Majestic Bayfront Villa",
+    "address": "482 Harbor Island Drive, Newport Beach, CA 92660",
+    "description": "This grand bayfront villa boasts panoramic water views, expansive outdoor terraces, and a private dock.",
+    "image": "https://ipfs.io/ipfs/QmTCu4GMNJvyx5G52vG7KzTBSs8CT4fypQrfXGFyjz2JXV",
+    "id": "45",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "$4.5 Million"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Single-Family Home"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Total Area",
+            "value": "7,500 sqft"
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.5 Acres"
+        },
+        {
+            "trait_type": "Amenities",
+            "value": "Private Dock, Swimming Pool, Home Theater"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2010
+        },
+        {
+            "trait_type": "Architectural Style",
+            "value": "Contemporary Mediterranean"
+        },
+        {
+            "trait_type": "Waterfront",
+            "value": "Bayfront with Private Dock"
+        }
+    ]
+}
+

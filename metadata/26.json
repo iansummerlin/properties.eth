@@ -1,0 +1,50 @@
+{
+    "name": "Opulent Modern Mansion",
+    "address": "9350 Eagle Point Lane, Las Vegas, NV 89134",
+    "description": "An opulent mansion with state-of-the-art amenities, offering a blend of modern design and luxurious comfort.",
+    "image": "https://ipfs.io/ipfs/QmasHD87tsEUnks9pykx6E88S34jnaCm67TP3jaJCa3pSU",
+    "id": "56",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "$7.3 Million"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Mansion"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 8
+        },
+        {
+            "trait_type": "Total Area",
+            "value": "9,500 sqft"
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.89 Acres"
+        },
+        {
+            "trait_type": "Amenities",
+            "value": "Infinity Pool, Home Cinema, Wine Cellar, 4-Car Garage"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        },
+        {
+            "trait_type": "Architectural Style",
+            "value": "Modern"
+        },
+        {
+            "trait_type": "View",
+            "value": "Cityscape"
+        }
+    ]
+}
+

@@ -1,0 +1,50 @@
+{
+    "name": "Winter Haven Modern Home",
+    "address": "742 Evergreen Terrace, Snowy Pines, MN 55684",
+    "description": "Contemporary elegance meets cozy comfort in this stunning Winter Haven residence. Surrounded by pristine snow-covered landscapes, this home features expansive living spaces, floor-to-ceiling windows, and luxurious finishes throughout.",
+    "image": "https://ipfs.io/ipfs/QmRnRgBuNpM2GrEoKci6MFGQqCCwkTFGMpHgY4fozhyL55",
+    "id": "301",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "1.5M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Single-Family Home"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3.5
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 4000
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "2 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Heated Outdoor Pool, Integrated Home Theater, Sauna"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "None"
+        },
+        {
+            "trait_type": "Heating Type",
+            "value": "Geothermal"
+        }
+    ]
+}
+

@@ -1,0 +1,46 @@
+{
+    "name": "Serene Mountain A-Frame Retreat",
+    "address": "500 Forest Road, Alpine Valley, CO 81632",
+    "description": "A tranquil A-frame house nestled in the mountains, offering stunning panoramic views and a peaceful retreat from the hustle and bustle of city life. The warm wooden interiors and large glass windows create a cozy atmosphere that blends seamlessly with the natural surroundings.",
+    "image": "https://ipfs.io/ipfs/Qmae4jeDj1mUWcN5ucWZzpAgLv46aBoQc2ikby6jUfSG2v",
+    "id": "105",
+    "attributes": [
+        {
+            "trait_type": "List Price",
+            "value": "1.2M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "House"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "3 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Panoramic Mountain Views, Privacy, Wood Burning Stove"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1982
+        },
+        {
+            "trait_type": "Recent Renovation",
+            "value": "2019"
+        }
+    ]
+}
+

@@ -1,0 +1,46 @@
+{
+    "name": "Modern Architectural Masterpiece",
+    "address": "9821 NE 24th Street, Bellevue, WA 98004",
+    "description": "This modern home boasts an open-concept design with state-of-the-art features, expansive windows offering ample natural light, and a seamless indoor-outdoor living experience. Equipped with smart home technology, it provides a perfect blend of luxury and convenience.",
+    "image": "https://ipfs.io/ipfs/QmXdAFWh9ceEh7k17DiMTaD1YGZ9DeH9unJ29wt6YPtQYz",
+    "id": "203",
+    "attributes": [
+        {
+            "trait_type": "List Price",
+            "value": "2.3M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Single-Family Home"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 4500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.5 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Smart Home Technology, Eco-Friendly Materials, Solar Panels"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2016
+        },
+        {
+            "trait_type": "Garage",
+            "value": "3 Cars"
+        }
+    ]
+}
+

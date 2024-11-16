@@ -1,0 +1,42 @@
+{
+    "name": "Historic Dalat Railway Station",
+    "address": "1 Quang Trung, Phường 10, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
+    "description": "Dalat Railway Station is an architectural marvel and a significant historical landmark, reflecting the French colonial era. Restored to its former glory, it now serves as a cultural attraction and a charming reminder of the city's past.",
+    "image": "https://ipfs.io/ipfs/QmYXZxwrDf87pLkMjBxTTkjm2AxPz5vqRan4CPokSuAXP4",
+    "id": "101",
+    "attributes": [
+        {
+            "trait_type": "Function",
+            "value": "Cultural Landmark"
+        },
+        {
+            "trait_type": "Status",
+            "value": "Preserved"
+        },
+        {
+            "trait_type": "Architectural Style",
+            "value": "Colonial"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1932
+        },
+        {
+            "trait_type": "Renovation Year",
+            "value": 1991
+        },
+        {
+            "trait_type": "Public Access",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Facilities",
+            "value": "Museum, Tourist Train"
+        },
+        {
+            "trait_type": "Historical Significance",
+            "value": "High"
+        }
+    ]
+}
+

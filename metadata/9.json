@@ -1,0 +1,50 @@
+{
+    "name": "Seaside Tropical Escape",
+    "address": "755 Ocean Drive, Key West, FL 33040",
+    "description": "This luxurious beachfront villa boasts a modern design with an open-air concept, thatched roofing, and seamless integration with the stunning tropical landscape. Enjoy private beach access and a serene infinity pool overlooking the clear blue waters.",
+    "image": "https://ipfs.io/ipfs/QmdowUMEjXocUVKizMKUhy2sGqrSrjs6ox2WDp5dofBxdS",
+    "id": "708",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "4.2M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 5200
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "1.2 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Thatched Roof, Infinity Pool, Private Beach Access"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2019
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "None Required"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Expansive Patio, Tropical Garden"
+        }
+    ]
+}
+

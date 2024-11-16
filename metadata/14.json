@@ -1,0 +1,50 @@
+{
+    "name": "Coastal Modernity Residence",
+    "address": "212 Vista Del Mar, La Jolla, CA 92037",
+    "description": "Capturing the essence of sophisticated coastal living, this home showcases clean architectural lines and expansive glass walls that invite natural light. With stunning ocean views, it offers a tranquil retreat with a seamless indoor-outdoor living experience.",
+    "image": "https://ipfs.io/ipfs/QmdkC7hjtorwMQmZrA2cFpTYsoGoYEzdXMyv5oWaJ23YYi",
+    "id": "208",
+    "attributes": [
+        {
+            "trait_type": "Listing Price",
+            "value": "3.4M"
+        },
+        {
+            "trait_type": "Property Type",
+            "value": "Residential"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3500
+        },
+        {
+            "trait_type": "Lot Size",
+            "value": "0.4 Acres"
+        },
+        {
+            "trait_type": "Unique Features",
+            "value": "Automated Glass Doors, Rooftop Deck, Smart Home Features"
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2015
+        },
+        {
+            "trait_type": "Renovations",
+            "value": "None"
+        },
+        {
+            "trait_type": "Outdoor Space",
+            "value": "Infinity Pool, Outdoor Kitchen"
+        }
+    ]
+}
+
